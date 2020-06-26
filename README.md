@@ -3,6 +3,4 @@
 <pre><code>#include &lt;experiment&gt;
 #include &lt;some_magic&gt;...</code></pre>
 
-<img src="https://media.licdn.com/mpr/mpr/p/1/005/082/0b7/3a07568.jpg" height=300 width=500/>
-
-<!--<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474531189experiment.jpg"/>-->
+<img src="https://i1.wp.com/www.workplacechemistry.com.au/wp-content/uploads/2018/04/AdobeStock_101151372.jpeg" height=400 weight=600 />
