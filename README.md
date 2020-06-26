@@ -5,5 +5,4 @@
 
 <img src="https://media.licdn.com/mpr/mpr/p/1/005/082/0b7/3a07568.jpg" height=300 width=500/>
 
-<!--<img src="https://pdacdn.com/userfiles/screens/18/17593/please-don-t-touch-anything-pc.jpg"/>-->
-<!--![Some experiment](https://media.licdn.com/mpr/mpr/p/1/005/082/0b7/3a07568.jpg)-->
+<!--<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474531189experiment.jpg"/>-->
